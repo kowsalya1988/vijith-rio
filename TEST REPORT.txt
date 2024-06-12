@@ -1,0 +1,2 @@
+S.NO		DATE/TIME			URL									STATUS		DESCRIPTION
+1		06-12-2024 12:59:24 pm		 https://docs.katalon.com/katalon-studio/docs/troubleshooting.html	 FAILD		 Unable to click on object
